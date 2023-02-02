@@ -1,0 +1,8 @@
+transformers
+wget
+numpy
+keras
+tensorflow
+tensorflow_addons
+scikit-learn
+pandas
